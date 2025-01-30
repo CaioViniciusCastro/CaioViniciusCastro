@@ -6,7 +6,7 @@
 Me chamo Caio Vinícius Castro, tenho 18 anos e sou natural de Minas Gerais. Concluí o ensino médio na Escola Estadual Santos Dumont, cursando o útlimo periodo do técnico em Análise e Desenvolvimento de Sistemas no Instituto educacional GRAU. Tenho grande apreço pela área da tecnologia e almejo um dia ingressar e me desenvolver profissionalmente neste campo
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/caio-oliveira-7a00b02a3/">
+    <a href="https://t.ctcdn.com.br/IwwDh-BajTE4ZwE4zuIcvz9Q2ZY=/i490027.jpeg">
         <img 
             alt="Linkedin" 
             title="Conheça meu Linkedin" 
