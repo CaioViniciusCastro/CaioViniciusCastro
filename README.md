@@ -17,7 +17,7 @@ Me chamo Caio Vinícius Castro, tenho 18 anos e sou natural de Minas Gerais. Con
         <img 
             alt="Linkedin" 
             title="Perfil Do Linkedin" 
-            src="https://pt.pngtree.com/freepng/linkedin-social-media-icon_3609691.html"
+            src="https://custom-icon-badges.demolab.com/linkedin/CaioViniciusCastro"
         />
     </a> 
 
