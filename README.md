@@ -13,15 +13,6 @@ Me chamo Caio Vinícius Castro, tenho 18 anos e sou natural de Minas Gerais. Con
             src="https://www.linkedin.com/in/caio-oliveira-7a00b02a3/"
         />
     </a>
-    <a href="https://www.linkedin.com/in/caio-oliveira-7a00b02a3/">
-        <img 
-            alt="Linkedin" 
-            title="Perfil Do Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/CaioViniciusCastro"
-        />
-    </a> 
-
-    
   <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
