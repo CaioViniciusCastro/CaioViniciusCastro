@@ -13,10 +13,10 @@ Me chamo Caio Vinícius Castro, tenho 18 anos e sou natural de Minas Gerais. Con
             src="https://i0.wp.com/syrus.com.br/wp-content/uploads/2021/02/Como-convidar-pessoas-para-seguir-a-pagina-de-sua-empresa-no-Linkedin.png?fit=752%2C469&ssl=1"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.linkedin.com/in/caio-oliveira-7a00b02a3/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="Linkedin" 
+            title="Perfil Do Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
