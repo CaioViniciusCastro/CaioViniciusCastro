@@ -17,7 +17,7 @@ Me chamo Caio Vinícius Castro, tenho 18 anos e sou natural de Minas Gerais. Con
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="file:///home/caio/Downloads/linkedin.svg"
         />
     </a>
     <a href="https://github.com/CaioViniciusCastro?tab=followers>
